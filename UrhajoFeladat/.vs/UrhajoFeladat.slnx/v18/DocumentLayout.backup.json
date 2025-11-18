@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\lazadogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\lazadogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\xwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\xwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\milleniumfalcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\milleniumfalcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\urhajok.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\urhajok.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\starwars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\starwars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\ihiperhajtomu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\ihiperhajtomu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|c:\\users\\haluskad\\documents\\13_asztali\\urhajofeladat\\urhajofeladat\\iurhajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0D73E-792A-164A-3522-FD96391AB054}|UrhajoFeladat\\UrhajoFeladat.csproj|solutionrelative:urhajofeladat\\iurhajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urhajok.txt",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\Urhajok.txt",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\Urhajok.txt",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\Urhajok.txt",
+              "RelativeToolTip": "UrhajoFeladat\\Urhajok.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-30T08:37:57.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilleniumFalcon.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\MilleniumFalcon.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\MilleniumFalcon.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\MilleniumFalcon.cs",
+              "RelativeToolTip": "UrhajoFeladat\\MilleniumFalcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:31:35.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XWing.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\XWing.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\XWing.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\XWing.cs",
+              "RelativeToolTip": "UrhajoFeladat\\XWing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:24:19.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LazadoGep.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\LazadoGep.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\LazadoGep.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\LazadoGep.cs",
+              "RelativeToolTip": "UrhajoFeladat\\LazadoGep.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:13:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHiperhajtomu.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\IHiperhajtomu.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\IHiperhajtomu.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\IHiperhajtomu.cs",
+              "RelativeToolTip": "UrhajoFeladat\\IHiperhajtomu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:11:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUrhajo.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\IUrhajo.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\IUrhajo.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\IUrhajo.cs",
+              "RelativeToolTip": "UrhajoFeladat\\IUrhajo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:07:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StarWars.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\StarWars.cs",
+              "RelativeDocumentMoniker": "UrhajoFeladat\\StarWars.cs",
+              "ToolTip": "C:\\Users\\haluskad\\Documents\\13_Asztali\\UrhajoFeladat\\UrhajoFeladat\\StarWars.cs",
+              "RelativeToolTip": "UrhajoFeladat\\StarWars.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:06:17.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

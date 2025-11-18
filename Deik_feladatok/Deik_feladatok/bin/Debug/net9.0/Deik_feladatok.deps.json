@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Deik_feladatok/1.0.0": {
+        "runtime": {
+          "Deik_feladatok.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deik_feladatok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

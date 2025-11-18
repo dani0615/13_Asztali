@@ -1,0 +1,14 @@
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\bin\Debug\net9.0\ElektronikaiEszközök.exe
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\bin\Debug\net9.0\ElektronikaiEszközök.deps.json
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\bin\Debug\net9.0\ElektronikaiEszközök.runtimeconfig.json
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\bin\Debug\net9.0\ElektronikaiEszközök.dll
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\bin\Debug\net9.0\ElektronikaiEszközök.pdb
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.AssemblyInfoInputs.cache
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.AssemblyInfo.cs
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.csproj.CoreCompileInputs.cache
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.dll
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\refint\ElektronikaiEszközök.dll
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.pdb
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ElektronikaiEszközök.genruntimeconfig.cache
+C:\Users\haluskad\source\repos\ElektronikaiEszközök\ElektronikaiEszközök\obj\Debug\net9.0\ref\ElektronikaiEszközök.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Orokles_0916/1.0.0": {
+        "runtime": {
+          "Orokles_0916.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orokles_0916/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

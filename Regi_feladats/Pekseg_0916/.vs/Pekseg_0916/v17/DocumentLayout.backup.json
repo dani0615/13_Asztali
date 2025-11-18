@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|c:\\users\\haluskad\\source\\repos\\pekseg_0916\\pekseg_0916\\pekseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|solutionrelative:pekseg_0916\\pekseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|c:\\users\\haluskad\\source\\repos\\pekseg_0916\\pekseg_0916\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|solutionrelative:pekseg_0916\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|c:\\users\\haluskad\\source\\repos\\pekseg_0916\\pekseg_0916\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|solutionrelative:pekseg_0916\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|c:\\users\\haluskad\\source\\repos\\pekseg_0916\\pekseg_0916\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|solutionrelative:pekseg_0916\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|c:\\users\\haluskad\\source\\repos\\pekseg_0916\\pekseg_0916\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5CBD5-C7F1-4E2C-A5CC-8EE8C0F63878}|Pekseg_0916\\Pekseg_0916.csproj|solutionrelative:pekseg_0916\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kave.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Kave.cs",
+              "RelativeDocumentMoniker": "Pekseg_0916\\Kave.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Kave.cs",
+              "RelativeToolTip": "Pekseg_0916\\Kave.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:24:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pogacsa.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Pogacsa.cs",
+              "RelativeDocumentMoniker": "Pekseg_0916\\Pogacsa.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Pogacsa.cs",
+              "RelativeToolTip": "Pekseg_0916\\Pogacsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:18:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peksutemeny.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Peksutemeny.cs",
+              "RelativeDocumentMoniker": "Pekseg_0916\\Peksutemeny.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Peksutemeny.cs",
+              "RelativeToolTip": "Pekseg_0916\\Peksutemeny.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:08:32.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArlap.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\IArlap.cs",
+              "RelativeDocumentMoniker": "Pekseg_0916\\IArlap.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\IArlap.cs",
+              "RelativeToolTip": "Pekseg_0916\\IArlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:43:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pekseg.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Pekseg.cs",
+              "RelativeDocumentMoniker": "Pekseg_0916\\Pekseg.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Pekseg_0916\\Pekseg_0916\\Pekseg.cs",
+              "RelativeToolTip": "Pekseg_0916\\Pekseg.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:43:08.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

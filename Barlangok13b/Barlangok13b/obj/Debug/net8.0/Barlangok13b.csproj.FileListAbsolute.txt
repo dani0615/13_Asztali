@@ -1,0 +1,16 @@
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\Barlangok13b.exe
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\Barlangok13b.deps.json
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\Barlangok13b.runtimeconfig.json
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\Barlangok13b.dll
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\Barlangok13b.pdb
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.AssemblyInfoInputs.cache
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.AssemblyInfo.cs
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.csproj.CoreCompileInputs.cache
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.sourcelink.json
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.dll
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\refint\Barlangok13b.dll
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.pdb
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\Barlangok13b.genruntimeconfig.cache
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\obj\Debug\net8.0\ref\Barlangok13b.dll
+C:\Users\haluskad\Documents\13_Asztali\Barlangok13b\Barlangok13b\bin\Debug\net8.0\barlangok.txt

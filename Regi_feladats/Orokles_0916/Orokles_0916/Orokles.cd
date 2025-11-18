@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Orokles_0916.Kor">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAABAAAAAAAAAgAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Orokles_0916.Alakzat">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAgAAAAAAAAAQAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Alakzat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orokles_0916.Program">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orokles_0916.Allat">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAEAABAAAAAAAA=</HashCode>
+      <FileName>Allat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orokles_0916.Kutya">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAABAAAAAAAA=</HashCode>
+      <FileName>Kutya.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orokles_0916.Macska">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Macska.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orokles_0916.Kismacska">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kismacska.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Orokles_0916.Ipelda1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ipelda1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Orokles_0916.Ipelda" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ipelda.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

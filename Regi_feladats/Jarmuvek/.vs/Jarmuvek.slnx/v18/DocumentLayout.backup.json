@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\jarmuvek.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\jarmuvek.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|c:\\users\\haluskad\\source\\repos\\jarmuvek\\jarmuvek\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798A0EAF-905E-296B-15D0-760B047C6AFC}|Jarmuvek\\Jarmuvek.csproj|solutionrelative:jarmuvek\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jarmuvek.txt",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Jarmuvek.txt",
+              "RelativeDocumentMoniker": "Jarmuvek\\Jarmuvek.txt",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Jarmuvek.txt",
+              "RelativeToolTip": "Jarmuvek\\Jarmuvek.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-23T07:26:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orszagut.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Orszagut.cs",
+              "RelativeDocumentMoniker": "Jarmuvek\\Orszagut.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Orszagut.cs",
+              "RelativeToolTip": "Jarmuvek\\Orszagut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:28:28.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\AudiS8.cs",
+              "RelativeDocumentMoniker": "Jarmuvek\\AudiS8.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\AudiS8.cs",
+              "RelativeToolTip": "Jarmuvek\\AudiS8.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:44:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Robogo.cs",
+              "RelativeDocumentMoniker": "Jarmuvek\\Robogo.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Robogo.cs",
+              "RelativeToolTip": "Jarmuvek\\Robogo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:23:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jarmu.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Jarmu.cs",
+              "RelativeDocumentMoniker": "Jarmuvek\\Jarmu.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\Jarmu.cs",
+              "RelativeToolTip": "Jarmuvek\\Jarmu.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:15:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKisGepjarmu.cs",
+              "DocumentMoniker": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\IKisGepjarmu.cs",
+              "RelativeDocumentMoniker": "Jarmuvek\\IKisGepjarmu.cs",
+              "ToolTip": "C:\\Users\\haluskad\\source\\repos\\Jarmuvek\\Jarmuvek\\IKisGepjarmu.cs",
+              "RelativeToolTip": "Jarmuvek\\IKisGepjarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:13:09.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

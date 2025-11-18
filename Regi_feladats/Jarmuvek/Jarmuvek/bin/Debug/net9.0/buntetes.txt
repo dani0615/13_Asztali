@@ -1,0 +1,20 @@
+Robogo:- 31 km/h Haladhat
+Audi:XLC-340- 160 km/h Nincs blokkolo Gyorsanhajtott
+Robogo:- 93 km/h Nem haladhat
+Robogo:- 49 km/h Nem haladhat
+Robogo:- 30 km/h Haladhat
+Audi:XZF-644- 90 km/h Nincs blokkolo Nem gyorsanhajtott
+Robogo:- 34 km/h Haladhat
+Robogo:- 35 km/h Nem haladhat
+Robogo:- 52 km/h Haladhat
+Audi:DDC-777- 160 km/h Nincs blokkolo Gyorsanhajtott
+Robogo:- 49 km/h Haladhat
+Audi:HJE-604- 60 km/h Nincs blokkolo Nem gyorsanhajtott
+Audi:UIB-910- 190 km/h Nincs blokkolo Gyorsanhajtott
+Audi:ISI-242- 140 km/h Nincs blokkolo Gyorsanhajtott
+Audi:OBR-037- 120 km/h Nincs blokkolo Gyorsanhajtott
+Audi:ZPU-293- 210 km/h Van blokkolo Nem gyorsanhajtott
+Audi:TEL-815- 60 km/h Nincs blokkolo Nem gyorsanhajtott
+Audi:FUR-016- 190 km/h Van blokkolo Nem gyorsanhajtott
+Audi:NZY-733- 130 km/h Nincs blokkolo Gyorsanhajtott
+Audi:INO-920- 200 km/h Van blokkolo Nem gyorsanhajtott

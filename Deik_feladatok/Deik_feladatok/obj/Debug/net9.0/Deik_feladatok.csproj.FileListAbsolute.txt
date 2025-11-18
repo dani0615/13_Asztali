@@ -1,0 +1,15 @@
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\bin\Debug\net9.0\Deik_feladatok.exe
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\bin\Debug\net9.0\Deik_feladatok.deps.json
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\bin\Debug\net9.0\Deik_feladatok.runtimeconfig.json
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\bin\Debug\net9.0\Deik_feladatok.dll
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\bin\Debug\net9.0\Deik_feladatok.pdb
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.AssemblyInfoInputs.cache
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.AssemblyInfo.cs
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.sourcelink.json
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.dll
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\refint\Deik_feladatok.dll
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.pdb
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\Deik_feladatok.genruntimeconfig.cache
+C:\Users\haluskad\Documents\13_Asztali\Deik_feladatok\Deik_feladatok\obj\Debug\net9.0\ref\Deik_feladatok.dll
