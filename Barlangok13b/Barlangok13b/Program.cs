@@ -2,6 +2,7 @@
 
 
 
+
 namespace Barlangok13b
 {
     internal class Program
@@ -14,18 +15,37 @@ namespace Barlangok13b
             Feladat4();
             Feladat5();
             Feladat6();
+            Feladat7();
+        }
+
+        private static void Feladat7()
+        {
+            Dictionary<string,int> statisztika = new Dictionary<string, int>();
+            foreach(var item in barlangs) 
+            {
+                if (!statisztika.ContainsKey(item.Vedettseg))
+                {
+                    statisztika.Add(item.Vedettseg, 1);
+                }
+                else 
+                {
+                    statisztika[item.Vedettseg]++;
+                }
+
+                Console.WriteLine("7.Feladat : Statisztika");
+                foreach(var stat in statisztika)
+                {
+                    Console.WriteLine($"\t{stat.Key}:".PadRight(31, '-'));
+                    Console.WriteLine($">{stat.Value} db");
+                }
+                
+
+            }
         }
 
         private static void Feladat6()
         {
-            /*
-             * Kérjen be egy védettségi szintet és tárolja el egy szöveges típusú változóban! Határozza
-meg és írja a képernyőre a megadott védettségi szinthez tartozó leghosszabb barlang adatait!
-Feltételezheti, hogy egyik védettségi szint esetében sem alakult ki a barlangok hosszánál
-holtverseny. Ha a megadott védettégi szinttel nem található barlang az adatok között, akkor
-a „Nincs ilyen védettségi szinttel barlang az adatok között!” felirat jelenjen meg!
-             * 
-             */
+            
             Console.WriteLine("Kérek egy védettségi szintet: ");
             string Vedettsegi = Console.ReadLine();
             var Leghosszabb = barlangs.Where(x => x.Vedettseg == Vedettsegi).Max(x => x.Hossz);
@@ -47,7 +67,7 @@ a „Nincs ilyen védettségi szinttel barlang az adatok között!” felirat je
             Console.WriteLine($"Barlangok száma:{barlangs.Count}");
         }
 
-        private static void Feladat3()
+        public static void Feladat3()
         {
             string [] sorok = File.ReadAllLines("barlangok.txt").Skip(1).ToArray();
             foreach (var sor in sorok)

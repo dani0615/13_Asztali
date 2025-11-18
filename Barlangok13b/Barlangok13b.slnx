@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Barlangok13b/Barlangok13b.csproj" />
+  <Project Path="BarlangokGUI/BarlangokGUI.csproj" Id="b4636b6c-e6b9-4144-948a-64fe834d1791" />
 </Solution>

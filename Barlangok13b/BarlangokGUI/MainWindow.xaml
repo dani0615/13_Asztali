@@ -1,0 +1,39 @@
+﻿<Window x:Class="BarlangokGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BarlangokGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" FontSize="30"
+         Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Azonosító :" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Label Content="Barlang neve :" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Label Content="Hosszúság :" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Label Content="Mélység :" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <TextBox Name="tbxAzon" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"/>
+        <Label Name="lblBarlang" Grid.Row="1" Grid.Column="1" Content="" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="20"  />
+
+        <TextBox Name="tbxHosszúság" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" />
+        <TextBox Name="tbxMelyseg" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" />
+        <Button x:Name="btnKereses" Content="Barlang keresése" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" Margin="20" Click="btnKereses_Click" />
+        <Button x:Name="btnMentes" Content="Adatok mentése" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Grid.RowSpan="2" Margin="20" Click="btnMentes_Click" IsEnabled="False"  />
+        <Button x:Name="btnMentesAllomany" Content="Állomány mentés" Grid.Row="2" Grid.Column="2" VerticalAlignment="Bottom" Grid.RowSpan="2" Margin="20" Click="btnMentesAllomany_Click" /> 
+        <Button x:Name="btnUjElem" Content="Új elem" Grid.Row="2" Grid.Column="2" VerticalAlignment="Top" Grid.RowSpan="2" Margin="20" Click="btnUjElem_Click" /> 
+
+
+    </Grid>
+</Window>
