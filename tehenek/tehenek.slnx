@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="tehenek/tehenek.csproj" />
+  <Project Path="tehenekTests/tehenekTests.csproj" Id="85cc9947-741c-4855-8734-9dd44dc826df" />
+</Solution>
