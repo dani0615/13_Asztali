@@ -1,0 +1,45 @@
+﻿<Window x:Class="tehenAdatok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tehenAdatok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid Background="LightGray">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Tejhozam lekérdezés" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="35" />
+        <Label Content="Szarvasmarha azonosítója:" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        <TextBox x:Name="tbxAzon" Grid.Row="2" HorizontalAlignment="Center" Width="150" Height="30" Margin="10" VerticalAlignment="Top" Text="BA" VerticalContentAlignment="Center" />
+        <ComboBox Name="cbxNapok" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" Width="100"/>
+
+
+
+        <Button Name="btnLekerdezes" Content="Lekérdezés" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" Click="btnLekerdezes_Click" />
+        <Label Content="Tej limit:" Grid.Column="1" Grid.Row="1" VerticalAlignment="Bottom" />
+        <StackPanel Grid.Row="2" Grid.Column="1" VerticalAlignment="Center"  HorizontalAlignment="Center" Orientation="Horizontal" >
+            <Label Name="lblTejErtek" Content="15 liter"  />
+            <Slider x:Name="sldTejLimit" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Width="250"  ValueChanged="sldTejLimit_ValueChanged" />
+            <Label Content="25 liter" />
+
+
+        </StackPanel>
+        <Label Name="lblBeallitottErtek" Content="X" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Button x:Name="btnKilépes" Click="btnKilépes_Click" Grid.Column="1" Grid.Row="4" Content="Kilépés" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" />
+
+
+    </Grid>
+</Window>

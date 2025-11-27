@@ -55,14 +55,7 @@ namespace tehenek
             else return -1;
 
         }
-
-
-
-
-
-
-
-        public Tehen(string id)
+       public Tehen(string id)
         {
             Id = id;
             Mennyisegek = new int[7];
