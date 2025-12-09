@@ -34,5 +34,12 @@ namespace negyszogCLI.Tests
             Negyszog n3 = new Negyszog("5 5 5 5");
             Assert.IsTrue(Program.RombuszE(n3));
         }
+
+        [TestMethod()]
+        public void ParalelogrammaETrueTest() 
+        {
+            Negyszog negyszog = new Negyszog("2 4 2 4");
+            Assert.IsTrue(Program.ParalelogrammaE(negyszog));
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System.Collections.ObjectModel;
+using System.IO;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -17,21 +18,22 @@ namespace negyszogekWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        static List<Negyszog> negyszogek = new List<Negyszog>();
+        private ObservableCollection<Negyszog> negyszogek = new ObservableCollection<Negyszog>();
+
         public MainWindow()
         {
             InitializeComponent();
-            Beolvas();
+            Beolvas("negyszogek.csv");
             dgrNegyszogek.ItemsSource = negyszogek;
         
 
         }
 
-        private void Beolvas() 
+        private void Beolvas(string fileNev) 
         {
             try
             {
-                string[] sorok = File.ReadAllLines("negyszogek.csv");
+                string[] sorok = File.ReadAllLines(fileNev);
                 foreach(var sor in sorok) 
                 {
                     negyszogek.Add(new Negyszog(sor));
@@ -40,9 +42,29 @@ namespace negyszogekWPF
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Hiba történt : {ex.Message}");
+                MessageBox.Show($"Hiba történt : {ex.Message}","Hiba", MessageBoxButton.OK , MessageBoxImage.Error);
                 
             }
+        }
+
+        private void btnHozzad_Click(object sender, RoutedEventArgs e)
+        {
+            if (int.Parse(tbxA.Text) >= int.Parse(tbxA.Text) &&
+                int.Parse(tbxB.Text) >= int.Parse(tbxC.Text) &&
+                int.Parse(tbxC.Text) >= int.Parse(tbxD.Text))
+            {
+                Negyszog formData = new Negyszog($"{tbxA.Text} {tbxB.Text} {tbxC.Text} {tbxD.Text}");
+                if (formData.LeghosszabbOldal())
+                {
+                    negyszogek.Add(formData);
+                }
+                else
+                {
+                    MessageBox.Show("Nem lehetséges a 4 szakaszból négyszöget szerkeszteni!");
+                }
+            }
+            else
+                MessageBox.Show("Nem megfelelő értékek!");
         }
     }
 }
