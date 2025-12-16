@@ -17,7 +17,7 @@
 
 
 
-        private void btnBelépés_Clicked(object sender, EventArgs e)
+        private async void btnBelépés_Clicked(object sender, EventArgs e)
         {
             string beirtNev = entNev.Text.Trim();
             string beirtJelszo = entPassword.Text.Trim();
@@ -29,7 +29,8 @@
                     if (felhasznalo.Jelszo == beirtJelszo)
                     {
                         DisplayAlert("Sikeres", $"Üdvözöllek, {felhasznalo.Nev}!", "OK");
-                        
+                        await Shell.Current.GoToAsync("NewPage1");
+                        return;
                     }
                     else
                     {
