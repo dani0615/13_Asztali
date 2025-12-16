@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginForm.MainPage">
+
+    
+    <ContentPage.Background>
+        <LinearGradientBrush EndPoint="0,1">
+            <GradientStop Color="#2c3e50" Offset="0.0" />
+            <GradientStop Color="#34495e" Offset="0.5" />
+            <GradientStop Color="#1abc9c" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Image
+                Source="kando.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="KKSZKI legkomolyabb logo" />
+
+            <Label
+                Text="Belépés"
+                TextColor="White"
+                FontSize="Large"
+                HorizontalOptions="Center"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Név"
+                TextColor="White" />
+
+            <Entry 
+                x:Name="entNev"
+                TextColor="White"
+                PlaceholderColor="LightGray"
+                BackgroundColor="#44000000" />
+            
+            <Label
+                Text="Jelszó"
+                TextColor="White" />
+
+            <Entry 
+                x:Name="entPassword"
+                IsPassword="True"
+                TextColor="White"
+                PlaceholderColor="LightGray"
+                BackgroundColor="#44000000" />
+
+            <Button
+                x:Name="btnBelépés"
+                Text="Belépés"
+                TextColor="White"
+                BackgroundColor="#3498db" 
+                CornerRadius="10"
+                FontAttributes="Bold"
+                SemanticProperties.Hint="Belépés"
+                Clicked="btnBelépés_Clicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
