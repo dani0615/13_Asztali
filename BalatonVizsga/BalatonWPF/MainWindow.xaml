@@ -17,6 +17,7 @@
         <StackPanel Grid.Column="2" >
             <Button Grid.Column="2" Name="btnModosit" Content="Módosít" Height="35" Margin="10,10,10,20" Click="btnModosit_Click"  />
             <Button x:Name="btnMentes" Grid.Column="2" Content="Mentés" Width="75" Height="35" Margin="10,10,10,20" Click="btnMentes_Click"/>
+            <Button Name="btnModify" Content="Modify" Margin="10 20 10 10" Height="30" Click="btnModify_Click"/>
 
         </StackPanel>
        

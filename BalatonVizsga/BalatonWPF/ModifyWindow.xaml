@@ -1,0 +1,24 @@
+﻿<Window x:Class="BalatonWPF.ModifyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BalatonWPF"
+        mc:Ignorable="d"
+        Title="ModifyWindow" Height="450" Width="300" FontSize="14">
+    <Grid>
+        <StackPanel>
+            <Label Content="Adószám" />
+            <TextBox x:Name="tbxTaxNumber" Height="20" Margin="20 0"  />
+            <Label Content="Utca" />
+            <TextBox x:Name="tbxStreet" Height="20" Margin="20 0"  />
+            <Label Content="Házszám" />
+            <TextBox x:Name="tbxHouseNumber" Height="20" Margin="20 0"  />
+            <Label Content="Adósáv" />
+            <TextBox x:Name="tbxTaxBracket" Height="20" Margin="20 0"  />
+            <Label Content="Terület" />
+            <TextBox x:Name="tbxArea" Height="20" Margin="20 0"  />
+            <Button x:Name="btnModosit" Content="Módosítás"  Margin="20 40 20 0" Click="btnModosit_Click"  />
+        </StackPanel>
+    </Grid>
+</Window>

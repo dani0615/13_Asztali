@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using System.Security.Authentication;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -10,6 +11,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using BalatonVizsga;
+using Microsoft.Win32.SafeHandles;
 
 namespace BalatonWPF
 {
@@ -19,6 +21,7 @@ namespace BalatonWPF
     public partial class MainWindow : Window
     {
         static List<Haz> hazak = new List<Haz>();
+        static int index = -1;
         public MainWindow()
         {
             InitializeComponent();
@@ -27,6 +30,11 @@ namespace BalatonWPF
             cbxAdoSav.Items.Add("A");
             cbxAdoSav.Items.Add("B");
             cbxAdoSav.Items.Add("C");
+        }
+
+        public static void SetModify(Haz haz) 
+        {
+            hazak[index] = haz;
         }
 
         private void Beolvasas() 
@@ -85,6 +93,13 @@ namespace BalatonWPF
                 MessageBox.Show(ex.Message);
             }
             
+        }
+
+        private void btnModify_Click(object sender, RoutedEventArgs e)
+        {
+            dgrLista.SelectedIndex = index;
+            ModifyWindow mfw = new ModifyWindow(hazak[dgrLista.SelectedIndex]);
+            mfw.ShowDialog();
         }
     }
 }   
