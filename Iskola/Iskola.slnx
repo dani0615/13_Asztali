@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Iskola/Iskola.csproj" />
+  <Project Path="IskolaTests/IskolaTests.csproj" Id="958f8d18-680d-46ca-bbe4-0eac64d605a7" />
+  <Project Path="IskolaWPF/IskolaWPF.csproj" Id="ded8dc2b-bbae-4246-a25b-0c4b6f859ebc">
+    <BuildDependency Project="Iskola/Iskola.csproj" />
+  </Project>
+</Solution>
