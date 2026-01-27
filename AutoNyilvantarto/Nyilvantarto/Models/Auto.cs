@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Nyilvantarto.Models
 {
-    public class Auto
+    public  class Auto
     {
         public Auto(string marka, string tipus, int gyartasiEv)
         {
@@ -18,6 +18,10 @@ namespace Nyilvantarto.Models
         public string Marka { get; private set; }
         public string Tipus { get; private set; }
         public int GyartasiEv { get; private set; }
+
+        public Auto()
+        {
+        }
 
 
     }

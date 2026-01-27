@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Nyilvantartó" Height="450" Width="800" FontSize="16"
         Loaded="Window_Loaded"
+        PreviewKeyDown="Window_PreviewKeyDown"
         >
     <Grid>
         <Grid.ColumnDefinitions>
@@ -14,9 +15,42 @@
             <ColumnDefinition/>
 
         </Grid.ColumnDefinitions>
-        <DataGrid x:Name="dgrAdatok" Margin="10" ColumnWidth="*"/>
+
+        <Menu>
+            <MenuItem Header="_Fájl">
+                <MenuItem Header="Új"/>
+                <MenuItem Header="Megnyitás" Name="miOpen" Click="miOpen_Click" InputGestureText="Ctrl+O" />
+                <Separator/>
+                <MenuItem Header="Kilépés" />
+            </MenuItem>
+            <MenuItem Header="_Szerkesztés">
+                <MenuItem Header="Másolás" InputGestureText="Ctrl+C"/>
+                <MenuItem Header="Beillesztés" InputGestureText="Ctrl+V"/>
+            </MenuItem>
+            <MenuItem Header="_Sugó">
+                <MenuItem Header="Online Help" Name="miHelp" Click="miHelp_Click"/>
+            </MenuItem>
+
+        </Menu>
+        <DataGrid x:Name="dgrAdatok" Margin="20" ColumnWidth="*"/>
         <StackPanel VerticalAlignment="Center" Grid.Column="1" >
-            <Button Name="btnFelvetel" Content="Felvétel" Margin="0 10" HorizontalAlignment="Center" Click="btnFelvetel_Click"/>
+            <Button Name="btnFelvetel" 
+                    Content="Felvétel" 
+                    Margin="0,10" 
+                    HorizontalAlignment="Center" 
+                    Click="btnFelvetel_Click">
+
+                <Button.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="1"/>
+                        <MenuItem Header="2">
+                            <MenuItem Header="2.1"/>
+                            <MenuItem Header="2.2"/>
+                        </MenuItem>
+                    </ContextMenu>
+                </Button.ContextMenu>
+
+            </Button>
 
             <Button Name="btnModositas" Content="Módosítás" Margin="0 10" HorizontalAlignment="Center" Click="btnModositas_Click"/>
             <Button x:Name="btnTorles" Content="Törlés" Margin="0 10" HorizontalAlignment="Center"/>
