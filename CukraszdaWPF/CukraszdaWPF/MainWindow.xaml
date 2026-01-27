@@ -18,7 +18,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- Menü marad fent -->
+       
         <Menu Grid.Row="0" Background="#80FFFFFF">
             <MenuItem Header="File">
                 <MenuItem Header="Open" Click="OpenMenu_Click" />

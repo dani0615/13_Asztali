@@ -11,7 +11,7 @@ namespace CukraszdaWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<Sutemenyek> sutik = new List<Sutemenyek>();  // nem static, biztonságosabb
+        private List<Sutemenyek> sutik = new List<Sutemenyek>();  
 
         public MainWindow()
         {
@@ -27,7 +27,7 @@ namespace CukraszdaWPF
 
             if (opf.ShowDialog() == true)
             {
-                sutik.Clear();  // ha többször nyitod a fájlt, ne duplikálódjon
+                sutik.Clear(); 
 
                 foreach (var sor in File.ReadAllLines(opf.FileName, Encoding.UTF8))
                 {
@@ -53,7 +53,7 @@ namespace CukraszdaWPF
 
         private void menuNevjegy_Click(object sender, RoutedEventArgs e)
         {
-            // Ide jöhet a névjegyz, ha kell
+           
             MessageBox.Show("Cukrászda WPF alkalmazás\nVerzió 1.0", "Névjegy");
         }
 
