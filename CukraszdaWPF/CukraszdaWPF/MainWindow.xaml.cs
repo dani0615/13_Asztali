@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Windows;
+using System.Windows.Input;
 
 namespace CukraszdaWPF
 {
@@ -24,19 +25,29 @@ namespace CukraszdaWPF
             {
                 Filter = "Szövegfájlok (*.txt)|*.txt|Minden fájl (*.*)|*.*"
             };
-
-            if (opf.ShowDialog() == true)
+            try
             {
-                sutik.Clear(); 
-
-                foreach (var sor in File.ReadAllLines(opf.FileName, Encoding.UTF8))
+                if (opf.ShowDialog() == true)
                 {
-                    if (!string.IsNullOrWhiteSpace(sor))
-                        sutik.Add(new Sutemenyek(sor));
-                }                
-                menuSutemenyek.IsEnabled = true;               
-                dgrAdat.ItemsSource = sutik;              
+                    sutik.Clear();
+
+                    foreach (var sor in File.ReadAllLines(opf.FileName, Encoding.UTF8))
+                    {
+                        if (!string.IsNullOrWhiteSpace(sor))
+                            sutik.Add(new Sutemenyek(sor));
+                    }
+                    MessageBox.Show("Sikeres beolvasás!","Siker",MessageBoxButton.OK,MessageBoxImage.Information);
+                    menuSutemenyek.IsEnabled = true;
+                    
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                
+            }
+
+            
         }
 
         private void menuSutemenyek_Click(object sender, RoutedEventArgs e)
@@ -60,6 +71,16 @@ namespace CukraszdaWPF
         private void exit_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
+        }
+
+        private void Window_PreviewKeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            if(Keyboard.Modifiers== ModifierKeys.Control && e.Key==Key.O)
+            {
+                OpenMenu_Click(sender, e);
+            }
+            e.Handled = true;
+
         }
     }
 }

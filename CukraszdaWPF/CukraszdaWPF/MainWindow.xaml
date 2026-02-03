@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CukraszdaWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="600">
+        Title="MainWindow" Height="450" Width="600"
+        PreviewKeyDown="Window_PreviewKeyDown">
 
     
     <Window.Background>
@@ -20,8 +21,8 @@
 
        
         <Menu Grid.Row="0" Background="#80FFFFFF">
-            <MenuItem Header="File">
-                <MenuItem Header="Open" Click="OpenMenu_Click" />
+            <MenuItem Header="_Fájl">
+                <MenuItem Header="Open" Click="OpenMenu_Click" InputGestureText="Ctrl+O" />
                 <MenuItem Header="Save"/>
                 <Separator/>
                 <MenuItem Header="Exit" Name="exit" Click="exit_Click" />

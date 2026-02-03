@@ -5,8 +5,8 @@ namespace CukraszdaWPF
 {
     public class Sutemenyek : INotifyPropertyChanged
     {
-        public string Suti { get; set; }
-        public int Ar { get; set; }
+        public string Suti { get; private set; }
+        public int Ar { get; private set; }
 
         private bool _kivalasztva;
         public bool Kivalasztva
@@ -29,8 +29,6 @@ namespace CukraszdaWPF
             var adatok = sor.Split(';');
             Suti = adatok[0].Trim();
             Ar = int.Parse(adatok[1].Trim());
-            Kivalasztva = false;
-            Adag = 0;
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
