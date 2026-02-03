@@ -1,0 +1,5 @@
+101;Kovács János;1990-05-12;Magyarország;01:25:30
+102;Nagy Anna;1985-11-20;Magyarország;01:20:15
+103;John Doe;1992-02-15;USA;01:30:45
+104;Jane Smith;1988-07-30;UK;01:15:00
+105;Varga Béla;1995-03-10;Magyarország;01:40:00
