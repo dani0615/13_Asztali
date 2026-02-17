@@ -1,0 +1,58 @@
+﻿<Window x:Class="Orszagok_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Orszagok_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="162*"/>
+            <RowDefinition Height="33*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.ColumnSpan="2" Grid.RowSpan="3">
+            <MenuItem Header="_Fájl">
+                <MenuItem Header="Megnyitás" Name="Megnyitas" Click="Megnyitas_Click" InputGestureText="Ctrl+O" />
+            </MenuItem>
+            <!--ContextMenu az europaihoz-->
+            <MenuItem Header="Európaiak" Name="EuropaiWindow" Click="EuropaiWindow_Click" />
+
+
+
+
+
+        </Menu>
+        <Label Content="Országok Népessége" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.ColumnSpan="2" FontSize="20" Margin="302,0,0,0"/>
+        <DataGrid x:Name="dgrOsszesOrszag" Grid.Row="1" Grid.Column="0" Margin="60,16,60,60" ColumnWidth="*" />
+        <!--<ListBox Name="lbxOrszagok" Grid.Column="0" Margin="60,16,60,60" Grid.Row="1" Grid.RowSpan="2"  />-->
+
+        <StackPanel Grid.Column="1" Margin="0,44,0,0" Grid.RowSpan="3">
+            <Label Content="Mit számoljak ?"/>
+            <RadioButton Name="rbtn10Milliotobb" Content="10 milliónál több" Margin="20 10 0 0" GroupName="lakossag"/>
+            <RadioButton Name="rbtnMax10Miliio" Content="Legfejlebb 10 millió" Margin="20 10 0 0" GroupName="lakossag"/>
+            <StackPanel Orientation="Horizontal" >
+                <Button Name="btnmegszamol" Content="megszámol" Margin="30" HorizontalAlignment="Left" Click="btnmegszamol_Click" />
+                <TextBox Name="tbxLakossag" Width="100" Height="25" HorizontalAlignment="Right" />
+            </StackPanel>
+
+            <Label Content="Legnagyobb/legkisebb népesség:"/>
+            <StackPanel Orientation="Horizontal">
+                <ComboBox Name="cbxOrszagKivalasztas" Height="25" Width="150" Margin="20 10 0 0"/>
+                <Button Name="btnkiirat" Content="Kiíratás" Margin="25" Click="btnkiirat_Click" />
+
+            </StackPanel>
+
+
+
+        </StackPanel>
+        <Button Name="btnAtlagNepesseg" Content="Átlag Népesség" Grid.Row="2" Grid.Column="1" Width="100" Margin="40 15 0 15" HorizontalAlignment="Left" Click="btnAtlagNepesseg_Click"  />
+        <Button x:Name="btnKilepés" Content="Kilépés" Grid.Column="1" Grid.Row="2" Width="60" Margin="0 15 30 15" HorizontalAlignment="Right" Click="btnKilepés_Click"  />
+
+    </Grid>
+</Window>
