@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LoLAPI/LoLAPI.csproj" />
+  <Project Path="LoLAPI_WPF/LoLAPI_WPF.csproj" />
+</Solution>
