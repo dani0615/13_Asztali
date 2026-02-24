@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VonatokCLI/VonatokCLI.csproj" />
+  <Project Path="VonatokWPF/VonatokWPF.csproj" Id="102a94db-e2cb-45da-b378-4a79bb1d228f" />
+</Solution>
