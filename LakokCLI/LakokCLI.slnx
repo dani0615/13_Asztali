@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LakokCLI/LakokCLI.csproj" />
+  <Project Path="LakokWPF/LakokWPF.csproj" />
+  <Project Path="TestProject1/TestProject1.csproj" />
+</Solution>
