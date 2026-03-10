@@ -23,7 +23,7 @@
         private static void Feladat10()
         {
             int maxPontszam = loveszek.Max(x => x.OsszPontszam());
-            var legjobbLovesz = loveszek.First(x => x.OsszPontszam() == maxPontszam);
+            var legjobbLovesz = loveszek.FirstOrDefault(x => x.OsszPontszam() == maxPontszam);
            
                 Console.WriteLine("A legnagyobb találatot lövő eredményei:");
                 //Max pontszam alapjan megkeressuk a legjobb lövészt

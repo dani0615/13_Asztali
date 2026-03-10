@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="hegyekCLI/hegyekCLI.csproj" />
+  <Project Path="hegyekWPF/hegyekWPF.csproj" />
+</Solution>
