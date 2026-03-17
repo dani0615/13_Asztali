@@ -1,0 +1,135 @@
+name;title;category;hp;movespeed;armor
+Aatrox;a Darkin penge;Fighter;537,8;345;24,384
+Ahri;a kilencfarkú róka;Mage;514,4;330;20,88
+Akali;az árnyék ökle;Assassin;587,8;350;26,38
+Alistar;a minotaurusz;Tank;613,36;330;24,38
+Amumu;a szomorú múmia;Tank;613,12;335;23,544
+Anivia;a jégfőnix;Mage;467,6;325;21,22
+Annie;a sötét gyermek;Mage;511,68;335;19,22
+Ashe;a fagyos íjász;Marksman;527,72;325;21,212
+Aurelion Sol;a csillagok kovácsa;Mage;550;325;19
+Azir;a sivatag császára;Mage;524,4;325;19,04
+Bard;a vigyázó vándor;Support;535;330;25
+Blitzcrank;a hatalmas gőzgólem;Tank;582,6;325;24,38
+Brand;a lángoló bosszú;Mage;507,68;340;21,88
+Braum;Freljord szíve;Support;576,16;335;26,72
+Caitlyn;Piltover seriffje;Marksman;524,4;325;22,88
+Camille;az acélhölgy;Fighter;575,6;340;26
+Cassiopeia;a kígyó ölelése;Mage;525;328;25
+Cho'Gath;az Üresség réme;Tank;574,4;345;28,88
+Corki;a vakmerő tüzér;Marksman;512,76;325;23,38
+Darius;Noxus keze;Fighter;582,24;340;30
+Diana;a Hold bajnoka;Fighter;589,2;345;26,048
+Draven;a dicső hóhér;Marksman;557,76;330;25,544
+Dr. Mundo;a zauni őrült;Fighter;582,52;345;26,88
+Ekko;a fiú, aki legyőzte az időt;Assassin;580;340;27
+Elise;a pókkirálynő;Mage;529,4;325;22,128
+Evelynn;az árnyjáró;Assassin;531,2;340;26,5
+Ezreal;a tékozló felfedező;Marksman;484,4;325;21,88
+Fiddlesticks;a végzet hírnöke;Mage;524,4;335;20,88
+Fiora;a nagy párbajhős;Fighter;550;345;24
+Fizz;az árapály trükkmestere;Assassin;558,48;335;22,412
+Galio;az őrző bánata;Tank;577,8;335;26,88
+Gangplank;a sósvízi veszedelem;Fighter;540;345;26
+Garen;Demacia ereje;Fighter;616,28;340;27,536
+Gnar;a hiányzó láncszem;Fighter;540;325;23
+Gragas;a csőcselék felbujtója;Fighter;583,52;330;26,048
+Graves;a törvényen kívüli;Marksman;551,12;340;24,376
+Hecarim;a háború árnyéka;Fighter;580;345;26,72
+Heimerdinger;a megbecsült feltaláló;Mage;476;340;19,04
+Illaoi;a kraken papnő;Fighter;585,6;340;26
+Irelia;a pengék akarata;Fighter;607,2;345;25,3
+Ivern;a zöld barát;Support;580;330;22
+Janna;a vihar haragja;Support;487,04;335;19,384
+IV. Jarvan;Demacia eszménye;Tank;571,2;340;29
+Jax;a fegyverek nagymestere;Fighter;592,8;350;27,04
+Jayce;a holnap védelmezője;Fighter;571,2;335;22,38
+Jhin;a virtuóz;Marksman;540;330;20
+Jinx;a nagyágyú;Marksman;517,76;325;22,88
+Kalista;a bosszú lándzsája;Marksman;517,76;325;19,012
+Karma;a felvilágosult;Mage;522,44;335;20,384
+Karthus;a halál énekese;Mage;516;335;20,88
+Kassadin;az Üresség vándora;Assassin;564,04;340;23,376
+Katarina;a baljós tőr;Assassin;590;340;27,88
+Kayle;az igazságosztó;Fighter;574,24;335;26,88
+Kennen;a vihar szíve;Mage;535,72;335;24,3
+Kha'Zix;az Üresség ragadozója;Assassin;572,8;350;27
+Kindred;az örökkévalóság vadászai;Marksman;540;325;20
+Kled;a zsémbes lovag;Fighter;340;345;26
+Kog'Maw;a végtelenség szája;Marksman;517,76;325;19,88
+LeBlanc;a megtévesztő;Assassin;516;340;21,88
+Lee Sin;a világtalan szerzetes;Fighter;570,8;350;24,216
+Leona;a sugárzó hajnal;Tank;576,16;335;27,208
+Lissandra;a jégboszorkány;Mage;506,12;325;20,216
+Lucian;a megtisztító;Marksman;554,4;335;24,04
+Lulu;a tündérboszorkány;Support;552,76;330;19,216
+Lux;a fény úrnője;Mage;477,72;330;18,72
+Malphite;a monolitszilánk;Tank;574,2;335;28,3
+Malzahar;az Üresség prófétája;Mage;525;335;20
+Maokai;a hatalmas ent;Tank;572,2;335;28,72
+Master Yi;a wuju nagymester;Assassin;598,56;355;24,04
+Miss Fortune;a fejvadász;Marksman;530;325;24,04
+Wukong;a majomkirály;Fighter;577,8;345;24,88
+Mordekaiser;a vaslidérc;Fighter;525;325;20
+Morgana;a bukott angyal;Mage;547,48;335;25,384
+Nami;a dagályhívó;Support;489,32;335;19,72
+Nasus;a homokdűnék őre;Fighter;561,2;350;24,88
+Nautilus;a mélység titánja;Tank;576,48;325;26,46
+Nidalee;a vadászó bestia;Assassin;511,2;335;22,88
+Nocturne;az örök rémálom;Assassin;582,8;345;26,88
+Nunu;a jetilovas;Support;598,28;350;26,38
+Olaf;a rettenthetetlen viking;Fighter;597,24;350;26,04
+Orianna;az óraművek hölgye;Mage;517,72;325;17,04
+Pantheon;a háború mestere;Fighter;579,16;355;27,652
+Poppy;a pöröly őrzője;Tank;540;345;29
+Quinn;Demacia szárnyai;Marksman;532,8;335;23,38
+Rammus;a páncélos;Tank;564,48;335;31,384
+Rek'Sai;a sivatagi Ürességrém;Fighter;570;335;24
+Renekton;a sivatag mészárosa;Fighter;572,16;345;25,584
+Rengar;a büszke ragadozó;Assassin;586,2;345;25,88
+Riven;a száműzött;Fighter;558,48;340;24,376
+Rumble;a gépesített fenyegetés;Fighter;584,4;345;25,88
+Ryze;a rúnamágus;Mage;558,48;340;21,552
+Sejuani;a tél haragja;Tank;600;340;29,54
+Shaco;a démoni bohóc;Assassin;582,12;350;24,88
+Shen;az alkony szeme;Tank;540;340;25
+Shyvana;a félvér sárkány;Fighter;595;350;27,628
+Singed;az őrült vegyész;Tank;542,76;345;27,88
+Sion;az élőholt gyilkológép;Tank;542,64;345;23,04
+Sivir;a viadal úrnője;Marksman;515,76;335;22,21
+Skarner;a kristály élharcosa;Fighter;601,28;335;29,384
+Sona;a húrok virtuóza;Support;482,36;325;20,544
+Soraka;a csillaggyermek;Support;529,04;325;23,384
+Swain;a mesteri taktikus;Mage;516,04;335;22,72
+Syndra;a sötét fejedelem;Mage;511,04;330;24,712
+Tahm Kench;a folyó királya;Support;610;335;27
+Taliyah;a sziklaszövő;Mage;520;325;20
+Talon;a penge árnyéka;Assassin;583;335;26,88
+Taric;Valoran pajzsa;Support;575;340;25
+Teemo;a fürge felderítő;Marksman;515,76;330;24,3
+Thresh;a láncok őre;Support;560,52;335;16
+Tristana;a yordle tüzér;Marksman;542,76;325;22
+Trundle;a Troll király;Fighter;616,28;350;27,536
+Tryndamere;a barbárvezér;Fighter;625,64;345;24,108
+Twisted Fate;a hamiskártyás;Mage;521,76;330;20,542
+Twitch;a pestispatkány;Marksman;525,08;330;23,04
+Udyr;a lélekvándor;Fighter;593,32;345;25,47
+Urgot;a hóhér büszkesége;Marksman;586,52;335;24,544
+Varus;a megtorlás nyila;Marksman;537,76;330;23,212
+Vayne;az éji vadász;Marksman;498,44;330;19,012
+Veigar;a gonoszság apró mestere;Mage;492,76;340;22,55
+Vel'Koz;az Üresség szeme;Mage;507,68;340;21,88
+Vi;a piltoveri végrehajtó;Fighter;582,8;345;25,88
+Viktor;a géphírnök;Mage;516,04;335;22,72
+Vladimir;a karmazsin kaszás;Mage;525;330;23
+Volibear;a mennydörgés hangja;Fighter;584,48;345;26,38
+Warwick;a vérvadász;Fighter;592,64;345;25,88
+Xerath;az emelkedett mágus;Mage;514,4;340;21,88
+Xin Zhao;Demacia udvarmestere;Fighter;600;345;25,88
+Yasuo;a kitaszított;Fighter;517,76;345;24,712
+Yorick;a lelkek pásztora;Fighter;580;340;30
+Zac;a titkos fegyver;Tank;614,6;340;23,88
+Zed;az árnyak nagyura;Assassin;579,4;345;26,88
+Ziggs;a hextikus robbantó;Mage;524,4;325;21,544
+Zilean;az idő őre;Support;499,28;335;19,134
+Zyra;a tövisek úrnője;Mage;499,32;340;20,04

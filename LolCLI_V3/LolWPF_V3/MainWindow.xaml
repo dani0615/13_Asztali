@@ -1,0 +1,23 @@
+﻿<Window x:Class="LolWPF_V3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LolWPF_V3"
+        mc:Ignorable="d"
+        Title="LOL hősök" Height="450" Width="800" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="383*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <ComboBox Name="cbxChampions" Width="100" Margin="10" SelectionChanged="cbxChampions_SelectionChanged"/>
+            <Button Name="btnMentes" Content="Mentés" Width="80" Margin="10" Click="btnMentes_Click"/>
+            <Button x:Name="btnReset" Content="Reset" Width="80" Margin="10" Click="btnReset_Click"/>
+        </StackPanel>
+        <DataGrid Name="dgrChampions" Grid.Row="1" ColumnWidth="*" Margin="10"/>
+
+
+    </Grid>
+</Window>
