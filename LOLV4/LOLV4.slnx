@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LOLV4/LOLV4.csproj" />
+  <Project Path="LOLV4_WPF/LOLV4_WPF.csproj" />
+</Solution>
