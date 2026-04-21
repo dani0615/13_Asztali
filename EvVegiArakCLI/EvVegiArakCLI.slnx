@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ArakWPF/ArakWPF.csproj" Id="5848e20a-c96e-4624-9879-4926946f11c9" />
+  <Project Path="EvVegiArakCLI/ArakCLI.csproj" />
+  <Project Path="TestProject'/TestProject'.csproj" Id="c61d6de7-2b41-43ab-bd35-6acc7bda944c" />
+</Solution>

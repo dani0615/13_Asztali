@@ -1,0 +1,24 @@
+10103;Marhahús;-80
+10401;Bontott csirke;-10
+10405;Csirkecomb;-40
+10407;Csirkeszárny;-40
+10502;Téliszalámi;-150
+10602;Virsli;-30
+12101;Sertészsír;-37
+12402;Tejes margarin;-41
+13003;Rétesliszt;-1
+13404;Spagetti;-69
+13501;Kristálycukor;-2
+13801;Háztartási keksz;-110
+13910;Akácméz;-550
+14101;Sárgarépa;-6
+14103;Vöröshagyma;-89
+14107;Paradicsom;-190
+14108;Zöldpaprika (szántóföldi és primőr együtt);-170
+14110;Uborka;-240
+14202;Görögdinnye;-6
+14425;Csemegekukorica-konzerv;-120
+14508;Gyümölcslekvár;-30
+14701;Tisztított dió;-150
+15202;Fűszerpaprika;-240
+15204;Só;-4
